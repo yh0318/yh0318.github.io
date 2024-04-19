@@ -1,0 +1,11 @@
+# 《主题配置文件》
+menu:
+  Home: /
+  Archives: /archives/
+sidebar: right
+widgets:
+  - category
+  - tag
+  - tagcloud
+  - archives
+  - recent_posts
